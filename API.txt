@@ -1,0 +1,20 @@
+API key: 959e0a3d2112c726b8d3f0f664a8df92
+SECRET KEY: cf80d1bf4f0dc6ff54ba05da1c549e09
+ADMIN API access token: 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
+
+
+Store name: https://admin.shopify.com/store/c4d995-3
+
+test api: https://apikey:apitoken@storename/admin/api/2022-10/products.json
+
+test api: https://959e0a3d2112c726b8d3f0f664a8df92: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@c4d995-3/admin/api/2022-10/products.json
+
+
+test api: https://959e0a3d2112c726b8d3f0f664a8df92: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@admin.shopify.com/store/c4d995-3/admin/api/2022-10/products.json
+
+
+https://c4d995-3.myshopify.com/admin/api/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/products.json
+
+Headers
+Content-Type: application/json
+X-Shopify-Access-Token: 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
